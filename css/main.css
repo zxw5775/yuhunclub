@@ -1,0 +1,68 @@
+*{
+	max-width: 100%;
+}
+body, button, input, select, textarea {
+	font-size: 14px;
+	color: #333;
+}
+h1{
+	margin: 12px 0;
+	font-size: 150%;
+}
+h2{
+	margin: 12px 0;
+	font-size: 130%;
+}
+h3{
+	margin: 12px 0;
+	font-size: 110%;
+}
+h4{
+	margin: 12px 0;
+	font-size: 100%;
+}
+legend{
+	display: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	vertical-align: middle;
+}
+
+#hd{
+	height: 60px;
+	color: #2f7ab4;
+	padding: 0 4px;
+	background: url(../imgs/head-bg.png) repeat-x;
+}
+#hd .container{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+#hd .logo{
+	margin-top: 5px;
+	float: left;
+}
+
+#ft{
+	font-size: 90%;
+	margin-top: 20px;
+	padding: 5px;
+	text-align: center;
+	clear: both;
+}
+
+
+#bd{
+	margin: 10px 6px 20px 6px;
+	background: #fff;
+}
+
+#bd .content{
+}
+
+
+

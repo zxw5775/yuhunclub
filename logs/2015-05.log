@@ -1,0 +1,120 @@
+2015-05-15 13:33:32.321 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:33:32.323 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:35:31.536 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:35:31.536 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:35:32.446 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:35:32.446 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:35:35.888 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:35:35.888 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:36:03.480 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:36:03.480 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:36:08.095 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:36:08.098 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:36:43.457 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:36:43.458 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:36:46.619 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:36:46.620 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:37:02.878 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:37:02.879 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:37:04.442 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:37:04.442 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:37:17.905 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:37:17.905 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:38:30.313 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:38:30.313 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:38:44.586 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:41:47.513 [ERROR] [0.0.0.0] [UtilTools.php:20] 抓取YAHOO数据失败，返回数据空
+2015-05-15 13:41:47.513 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:43:11.197 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:43:20.119 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:43:25.434 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:43:47.121 [INFO ] [0.0.0.0] [check_real_data.php:59] start
+2015-05-15 13:43:51.969 [INFO ] [0.0.0.0] [check_real_data.php:66] stop
+2015-05-15 13:44:12.754 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:44:33.715 [INFO ] [0.0.0.0] [check_real_data.php:58] start
+2015-05-15 13:44:38.353 [INFO ] [0.0.0.0] [check_real_data.php:65] stop
+2015-05-15 13:48:48.767 [INFO ] [0.0.0.0] [check_contract_data.php:141] start
+2015-05-15 13:49:28.418 [INFO ] [0.0.0.0] [check_contract_data.php:141] start
+2015-05-15 13:49:59.843 [INFO ] [0.0.0.0] [check_contract_data.php:141] start
+2015-05-15 13:50:56.109 [INFO ] [0.0.0.0] [check_contract_data.php:143] start
+2015-05-15 13:51:54.410 [INFO ] [0.0.0.0] [check_contract_data.php:145] start
+2015-05-15 13:52:23.485 [INFO ] [0.0.0.0] [check_contract_data.php:145] start
+2015-05-15 13:55:54.562 [INFO ] [0.0.0.0] [check_contract_data.php:146] start
+2015-05-15 13:56:52.401 [INFO ] [0.0.0.0] [check_contract_data.php:147] start
+2015-05-15 13:56:55.729 [INFO ] [0.0.0.0] [check_contract_data.php:147] start
+2015-05-15 13:57:37.118 [INFO ] [0.0.0.0] [check_contract_data.php:149] start
+2015-05-15 13:58:27.606 [INFO ] [0.0.0.0] [check_contract_data.php:143] start
+2015-05-15 13:58:32.669 [INFO ] [0.0.0.0] [check_contract_data.php:150] stop
+2015-05-15 13:58:52.294 [INFO ] [0.0.0.0] [check_contract_data.php:143] start
+2015-05-15 13:59:02.466 [INFO ] [0.0.0.0] [check_contract_data.php:150] stop
+2015-05-15 13:59:15.179 [INFO ] [0.0.0.0] [check_contract_data.php:144] start
+2015-05-15 13:59:23.591 [INFO ] [0.0.0.0] [check_contract_data.php:151] stop
+2015-05-15 13:59:52.409 [INFO ] [0.0.0.0] [check_contract_data.php:144] start
+2015-05-15 13:59:57.401 [INFO ] [0.0.0.0] [check_contract_data.php:151] stop
+2015-05-15 14:00:16.840 [INFO ] [0.0.0.0] [check_contract_data.php:143] start
+2015-05-15 14:00:23.792 [INFO ] [0.0.0.0] [check_contract_data.php:150] stop
+2015-05-15 14:00:49.159 [INFO ] [0.0.0.0] [check_contract_data.php:143] start
+2015-05-15 14:00:57.144 [INFO ] [0.0.0.0] [check_contract_data.php:150] stop
+2015-05-15 14:01:59.704 [INFO ] [0.0.0.0] [check_contract_data.php:143] start
+2015-05-15 14:02:47.387 [INFO ] [0.0.0.0] [check_contract_data.php:145] start
+2015-05-15 14:05:13.954 [INFO ] [0.0.0.0] [check_contract_data.php:148] start
+2015-05-15 14:07:44.465 [INFO ] [0.0.0.0] [check_contract_data.php:149] start
+2015-05-15 14:08:14.508 [INFO ] [0.0.0.0] [check_contract_data.php:150] start
+2015-05-15 14:08:58.207 [INFO ] [0.0.0.0] [check_contract_data.php:151] start
+2015-05-15 14:10:46.911 [INFO ] [0.0.0.0] [check_contract_data.php:153] start
+2015-05-15 14:10:52.933 [INFO ] [0.0.0.0] [check_contract_data.php:160] stop
+2015-05-15 14:11:03.278 [INFO ] [0.0.0.0] [check_contract_data.php:153] start
+2015-05-15 14:12:15.081 [INFO ] [0.0.0.0] [check_contract_data.php:153] start
+2015-05-15 14:13:15.203 [INFO ] [0.0.0.0] [check_contract_data.php:153] start
+2015-05-15 14:13:42.462 [INFO ] [0.0.0.0] [check_contract_data.php:153] start
+2015-05-15 14:19:06.167 [INFO ] [0.0.0.0] [check_contract_data.php:153] start
+2015-05-15 14:21:24.436 [INFO ] [0.0.0.0] [check_contract_data.php:152] start
+2015-05-15 14:21:37.596 [INFO ] [0.0.0.0] [check_contract_data.php:152] start
+2015-05-15 14:23:23.257 [INFO ] [0.0.0.0] [check_contract_data.php:158] start
+2015-05-15 14:24:27.685 [INFO ] [0.0.0.0] [check_contract_data.php:157] start
+2015-05-15 14:25:10.926 [INFO ] [0.0.0.0] [check_contract_data.php:150] start
+2015-05-15 14:25:44.114 [INFO ] [0.0.0.0] [check_contract_data.php:152] start
+2015-05-15 14:26:09.249 [INFO ] [0.0.0.0] [check_contract_data.php:152] start
+2015-05-15 14:27:03.901 [INFO ] [0.0.0.0] [check_contract_data.php:152] start
+2015-05-15 14:28:00.808 [INFO ] [0.0.0.0] [check_contract_data.php:153] start
+2015-05-15 14:29:55.606 [INFO ] [0.0.0.0] [check_contract_data.php:157] start
+2015-05-15 14:31:33.586 [INFO ] [0.0.0.0] [check_contract_data.php:153] start
+2015-05-15 14:33:00.128 [INFO ] [0.0.0.0] [check_contract_data.php:152] start
+2015-05-15 14:33:44.865 [INFO ] [0.0.0.0] [check_contract_data.php:154] start
+2015-05-15 14:34:07.458 [INFO ] [0.0.0.0] [check_contract_data.php:154] start
+2015-05-15 14:35:20.049 [INFO ] [0.0.0.0] [check_contract_data.php:154] start
+2015-05-15 14:42:21.847 [INFO ] [0.0.0.0] [check_contract_data.php:152] start
+2015-05-15 14:42:54.240 [INFO ] [0.0.0.0] [check_contract_data.php:153] start
+2015-05-15 14:48:05.904 [INFO ] [0.0.0.0] [check_contract_data.php:182] start
+2015-05-15 14:48:38.375 [INFO ] [0.0.0.0] [check_contract_data.php:182] start
+2015-05-15 15:32:09.920 [INFO ] [0.0.0.0] [check_contract_data.php:180] start
+2015-05-15 15:33:35.581 [ERROR] [0.0.0.0] [check_contract_data.php:185] exception 'Exception' with message 'Unknown column 'chanage_amount' in 'field list' in SQL: insert into `contracts` set `name` = 'ASHR150515C00038000',`strike_date` = '150515',`strike_amount` = '3800',`last_amount` = '1080',`bid_amount` = '0',`ask_amount` = '0',`chanage_amount` = '0',`chanage_rate` = '0.00',`volume` = '27',`open_interest` = '29',`lmplied_rate` = '0.00',`create_time` = '2015-05-15 15:33:35',`modify_time` = '2015-05-15 15:33:35'' in /data/lib/iphp/framework/Mysql.php:49 Stack trace: #0 /data/lib/iphp/framework/Mysql.php(180): Mysql->query('insert into `co...') #1 /data/lib/iphp/framework/Model.php(96): Mysql->save('contracts', Array) #2 /data/www/ashr/app/console/check_contract_data.php(52): Model::save(Array) #3 /data/www/ashr/app/console/check_contract_data.php(37): check_contract_data->save_date(Array) #4 /data/www/ashr/app/console/check_contract_data.php(183): check_contract_data->run() #5 {main}
+2015-05-15 15:33:35.581 [INFO ] [0.0.0.0] [check_contract_data.php:187] stop
+2015-05-15 15:34:47.229 [INFO ] [0.0.0.0] [check_contract_data.php:180] start
+2015-05-15 15:36:10.107 [ERROR] [0.0.0.0] [check_contract_data.php:185] exception 'Exception' with message 'Unknown column 'chanage_rate' in 'field list' in SQL: insert into `contracts` set `name` = 'ASHR150515C00038000',`strike_date` = '150515',`strike_amount` = '3800',`last_amount` = '1080',`bid_amount` = '0',`ask_amount` = '0',`change_amount` = '0',`chanage_rate` = '0.00',`volume` = '27',`open_interest` = '29',`lmplied_rate` = '0.00',`create_time` = '2015-05-15 15:36:10',`modify_time` = '2015-05-15 15:36:10'' in /data/lib/iphp/framework/Mysql.php:49 Stack trace: #0 /data/lib/iphp/framework/Mysql.php(180): Mysql->query('insert into `co...') #1 /data/lib/iphp/framework/Model.php(96): Mysql->save('contracts', Array) #2 /data/www/ashr/app/console/check_contract_data.php(52): Model::save(Array) #3 /data/www/ashr/app/console/check_contract_data.php(37): check_contract_data->save_date(Array) #4 /data/www/ashr/app/console/check_contract_data.php(183): check_contract_data->run() #5 {main}
+2015-05-15 15:36:10.011 [INFO ] [0.0.0.0] [check_contract_data.php:187] stop
+2015-05-15 15:36:43.640 [INFO ] [0.0.0.0] [check_contract_data.php:180] start
+2015-05-15 15:38:10.473 [INFO ] [0.0.0.0] [check_contract_data.php:187] stop
+2015-05-15 15:49:45.354 [INFO ] [127.0.0.1] [Contract.php:25] 设置合约删除 1
+2015-05-15 15:49:47.673 [INFO ] [127.0.0.1] [Contract.php:25] 设置合约删除 2
+2015-05-15 17:38:55.187 [INFO ] [127.0.0.1] [Tactics.php:27] 设置策略新建 1
+2015-05-15 17:38:56.870 [INFO ] [127.0.0.1] [Tactics.php:41] 设置策略删除 1
+2015-05-15 17:39:16.159 [INFO ] [127.0.0.1] [Tactics.php:27] 设置策略新建 3
+2015-05-15 17:39:18.111 [INFO ] [127.0.0.1] [Tactics.php:41] 设置策略删除 3
+2015-05-15 18:39:30.870 [INFO ] [0.0.0.0] [check_real_data.php:63] start
+2015-05-15 18:39:35.840 [INFO ] [0.0.0.0] [Tactics.php:34] 设置策略已经发送告警 2
+2015-05-15 18:39:35.841 [INFO ] [0.0.0.0] [check_real_data.php:70] stop
+2015-05-15 18:39:59.252 [INFO ] [0.0.0.0] [check_real_data.php:61] start
+2015-05-15 18:40:03.740 [INFO ] [0.0.0.0] [check_real_data.php:68] stop
+2015-05-15 18:47:00.688 [INFO ] [0.0.0.0] [check_real_data.php:61] start
+2015-05-15 18:47:05.309 [INFO ] [0.0.0.0] [Tactics.php:34] 设置策略已经发送告警 2
+2015-05-15 18:47:05.310 [INFO ] [0.0.0.0] [check_real_data.php:68] stop
+2015-05-15 18:48:11.499 [INFO ] [0.0.0.0] [check_real_data.php:61] start
+2015-05-15 18:48:16.272 [INFO ] [0.0.0.0] [check_real_data.php:68] stop
+2015-05-15 18:48:43.979 [INFO ] [0.0.0.0] [check_real_data.php:61] start
+2015-05-15 18:48:48.721 [INFO ] [0.0.0.0] [Tactics.php:34] 设置策略已经发送告警 2
+2015-05-15 18:48:48.721 [INFO ] [0.0.0.0] [check_real_data.php:68] stop
+2015-05-15 20:16:14.819 [INFO ] [0.0.0.0] [check_real_data.php:61] start
+2015-05-15 20:17:24.742 [INFO ] [0.0.0.0] [check_real_data.php:61] start
+2015-05-15 20:17:28.477 [INFO ] [0.0.0.0] [check_real_data.php:68] stop
+2015-05-15 20:57:18.794 [INFO ] [0.0.0.0] [check_real_data.php:61] start
