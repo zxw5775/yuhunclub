@@ -10,13 +10,14 @@ class AdminController extends Controller
 	}
 
 	static $menu =  array(
-		'admin/bao' => array(
-			'name'=> '车友管理',
-			'sub' => array(
-				'admin/' => '车友管理',
-				'admin/' => '车标申请',
-				'admin/' => '微信管理',	
+			'admin/weixin' => array(
+					'name' => '微信管理',
+					'sub'  => array(
+							'admin/weixin/account' => '账号管理',
+							'admin/weixin/reply'   => '回复管理',
+							'admin/weixin/connect'   => '用户账号',
+							'admin/weixin/openids'   => 'openid列表',
+					),
 			),
-		),
 	);
 }
