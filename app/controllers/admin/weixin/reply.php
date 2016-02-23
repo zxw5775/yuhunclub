@@ -34,7 +34,7 @@ class ReplyController extends AdminController
 			return $this->save($ctx);
 		}
 		
-		$ctx->channel_list = Profile::list_channel_info();
+		$ctx->channel_list = array();
 		
 		$m = new WxReplyItem();
 		$type = $_GET['type'];
