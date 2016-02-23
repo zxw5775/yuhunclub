@@ -43,3 +43,17 @@ CREATE TABLE `wx_reply_keywords` (
   KEY `keyword` (`keyword`),
   KEY `type` (`type`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+CREATE TABLE IF NOT EXISTS `wx_openids` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `wx_id` varchar(128) COLLATE utf8_unicode_ci NOT NULL COMMENT '服务号微信id',
+  `wx_openid` varchar(255) COLLATE utf8_unicode_ci NOT NULL COMMENT '微信openid',
+  `status` tinyint(4) NOT NULL DEFAULT '1',
+  `source` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `idx_wxid_openid` (`wx_id`,`wx_openid`),
+  KEY `source` (`source`),
+  KEY `wx_openid` (`wx_openid`),
+  KEY `status` (`status`),
+  KEY `wx_id` (`wx_id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
