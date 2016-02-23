@@ -22,7 +22,7 @@
 				</li>
 			</ul>
 		</div>
-		<?php _widget('admin/_menu', array('menu' => AdminController::$menu)); ?>
+		<?php if($_SESSION['admin_user'])  _widget('admin/_menu', array('menu' => AdminController::$menu)); ?>
 		<ul class="nav navbar-nav navbar-right">
 			<li>
 				<a class="" href="<?=_url('admin/logout')?>" data-toggle="">退出</a>
