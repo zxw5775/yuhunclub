@@ -3,7 +3,6 @@ class LoginController extends Controller
 {
 
 	function init($ctx){
-		php_info();
 		session_start();
 		$ctx->user =$_SESSION['admin_user'];
 	}
@@ -15,7 +14,7 @@ class LoginController extends Controller
 			}
 			$name = htmlspecialchars(trim($_POST['name']));
 			$password = htmlspecialchars(trim($_POST['password']));
-			if($name === 'admin' && $password === 'da1wan2jia3'){
+			if($name === 'admin' && $password === 'yuhun666'){
 				$_SESSION['admin_user'] = 1;
 				$url = _url('admin');
 				_redirect($url);
